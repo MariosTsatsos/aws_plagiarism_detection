@@ -1,5 +1,5 @@
 # AWS Plagiarism Detection
-A Plagiarism Detector built using sklearn binary classifiers. The following three notebooks and supporting scripts (helpers.py and train.py) classify a given answer text as plagiarised or not by comparing it against a data base of texts. The data come from University of Sheffield's work on |Plagiarised Answers" https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html 
+A Plagiarism Detector built using sklearn binary classifiers. The following three notebooks and supporting scripts (helpers.py and train.py) classify a given answer text as plagiarised or not by comparing it against a data base of texts. The data come from University of Sheffield's work on "Plagiarised Answers" https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html 
 
 We classify a text as plagiarised (which includes "near copy", "light revision" and "heavy revision") and non-plagiarised.
 
